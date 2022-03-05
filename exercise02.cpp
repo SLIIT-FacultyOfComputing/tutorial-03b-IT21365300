@@ -31,7 +31,3 @@ int main() {
 }
 
 // Implement the Volume() function here
-int volume(int height,int width,int length)
-{
-  return height*width*lenghth;
-}
